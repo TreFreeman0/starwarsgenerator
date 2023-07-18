@@ -1,0 +1,11 @@
+.card-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    outline: 1px solid black;
+    margin: 0 auto;
+    height: 100vh;
+    background-color: #000000;
+    color: #4E4FEB;
+}
