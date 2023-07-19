@@ -6,7 +6,8 @@ const NavBar = () => {
     <div className='navWrapper'>
         <h1>Star Wars Characters</h1>
         <div>
-            <p>Git ub goes here</p>
+            <label>Choose wisley you will</label>
+            
         </div>
     </div>
   )
